@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Аналіз Кримінальної Статистики</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Аналіз кримінальних правопорушень в Україні</h1>
+        <p>Дані за 2014-2017 та 2019-2022 роки</p>
+    </header>
+
+    <main>
+        <div class="controls">
+            <div class="control-group">
+                <label for="metric-select">Оберіть показник:</label>
+                <select id="metric-select" onchange="updateChart()">
+                    <option value="Oblikovano_total">Обліковано (усього)</option>
+                    <option value="Pidozra">Повідомлено про підозру</option>
+                    <option value="Napravleno_do_sudu">Скеровано до суду</option>
+                    <option value="Provadzhenya_zakryto">Провадження закрито</option>
+                    <option value="Zupineno">Зупинено</option>
+                    <option value="Ne_priynyato_rishennya">Не прийнято рішень</option>
+                </select>
+            </div>
+
+            <div class="control-group">
+                <label for="article-select">Оберіть статтю ККУ:</label>
+                <select id="article-select" onchange="updateChart()">
+                    <option value="111">Ст. 111 (Державна зрада)</option>
+                    <option value="121">Ст. 121 (Умисне тяжке тілесне)</option>
+                    <option value="185">Ст. 185 (Крадіжка)</option>
+                    <option value="187">Ст. 187 (Розбій)</option>
+                    <option value="190">Ст. 190 (Шахрайство)</option>
+                </select>
+            </div>
+
+            <div class="control-group">
+                <label for="year-select">Оберіть період:</label>
+                <select id="year-select" onchange="updateChart()">
+                    <option value="timeseries">Загальний тренд (2014-2022)</option>
+                    <option value="2014">2014 рік</option>
+                    <option value="2015">2015 рік</option>
+                    <option value="2016">2016 рік</option>
+                    <option value="2017">2017 рік</option>
+                    <option value="2019">2019 рік</option>
+                    <option value="2020">2020 рік</option>
+                    <option value="2021">2021 рік</option>
+                    <option value="2022">2022 рік</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="chart-container">
+            <iframe id="chart-frame" src="" frameborder="0"></iframe>
+            <div id="error-message" style="display: none;">
+                <p>На жаль, даних для цього запиту не знайдено (можливо, не було правопорушень за цей період).</p>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        function updateChart() {
+            const metric = document.getElementById('metric-select').value;
+            const article = document.getElementById('article-select').value;
+            const year = document.getElementById('year-select').value;
+
+            const iframe = document.getElementById('chart-frame');
+            const errorDiv = document.getElementById('error-message');
+            
+            let chartUrl = "";
+
+            if (year === 'timeseries') {
+                chartUrl = `charts/timeseries_${article}_${metric}.html`;
+            } else {
+                chartUrl = `charts/monthly_${article}_${year}_${metric}.html`;
+            }
+
+            console.log("Завантажую:", chartUrl);
+
+            iframe.src = chartUrl;
+
+            iframe.style.display = 'block';
+            errorDiv.style.display = 'none';
+
+            iframe.onerror = function() {
+                iframe.style.display = 'none';
+                errorDiv.style.display = 'block';
+            };
+            
+            iframe.onload = function() {
+                try {
+                    if (iframe.contentDocument.body.innerHTML.length < 100) {
+                         throw new Error('Empty page');
+                    }
+                    iframe.style.display = 'block';
+                    errorDiv.style.display = 'none';
+                } catch (e) {
+                    iframe.style.display = 'none';
+                    errorDiv.style.display = 'block';
+                }
+            };
+        }
+
+        // Завантажуємо перший графік при відкритті сторінки
+        document.addEventListener('DOMContentLoaded', updateChart);
+    </script>
+
+</body>
+</html>
