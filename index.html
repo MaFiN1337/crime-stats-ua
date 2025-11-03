@@ -18,12 +18,12 @@
             <div class="control-group">
                 <label for="metric-select">Оберіть показник:</label>
                 <select id="metric-select" onchange="updateChart()">
-                    <option value="Oblikovano_total">Обліковано (усього)</option>
-                    <option value="Pidozra">Повідомлено про підозру</option>
-                    <option value="Napravleno_do_sudu">Скеровано до суду</option>
-                    <option value="Provadjenya_zakryto">Провадження закрито</option>
-                    <option value="Zupineno">Зупинено</option>
-                    <option value="Ne_priynyato_rishennya">Не прийнято рішень</option>
+                    <option value="Oblikovano_total">Обліковано (за місяць)</option>
+                    <option value="Pidozra">Повідомлено про підозру (за місяць)</option>
+                    <option value="Napravleno_do_sudu">Направлено до суду (за місяць)</option>
+                    <option value="Provadjenya_zakryto">Закрито проваджень (за місяць)</option>
+                    <option value="Zupineno">Зупинено проваджень (за місяць)</option>
+                    <option value="Ne_priynyato_rishennya">Не прийнято рішень (на кінець місяця)</option>
                 </select>
             </div>
 
@@ -41,15 +41,19 @@
             <div class="control-group">
                 <label for="year-select">Оберіть період:</label>
                 <select id="year-select" onchange="updateChart()">
-                    <option value="timeseries">Загальний тренд (2014-2022)</option>
+                    <option value="trend">Загальний тренд (2014-2024)</option> 
+                    
                     <option value="2014">2014 рік</option>
                     <option value="2015">2015 рік</option>
                     <option value="2016">2016 рік</option>
                     <option value="2017">2017 рік</option>
+                    <option value="2018">2018 рік</option>
                     <option value="2019">2019 рік</option>
                     <option value="2020">2020 рік</option>
                     <option value="2021">2021 рік</option>
                     <option value="2022">2022 рік</option>
+                    <option value="2023">2023 рік</option>
+                    <option value="2024">2024 рік</option>
                 </select>
             </div>
         </div>
@@ -64,6 +68,7 @@
 
     <script>
         function updateChart() {
+            // 'metric' тепер буде 'Oblikovano_total', 'Pidozra', і т.д.
             const metric = document.getElementById('metric-select').value;
             const article = document.getElementById('article-select').value;
             const year = document.getElementById('year-select').value;
@@ -73,16 +78,14 @@
             
             let chartUrl = "";
 
-            if (year === 'timeseries') {
-                chartUrl = `charts/timeseries_${article}_${metric}.html`;
+            if (year === 'trend') {
+                chartUrl = `charts/timeseries_trend_${article}_${metric}.html`;
             } else {
                 chartUrl = `charts/monthly_${article}_${year}_${metric}.html`;
             }
 
             console.log("Завантажую:", chartUrl);
-
             iframe.src = chartUrl;
-
             iframe.style.display = 'block';
             errorDiv.style.display = 'none';
 
@@ -93,12 +96,13 @@
             
             iframe.onload = function() {
                 try {
-                    if (iframe.contentDocument.body.innerHTML.length < 100) {
-                         throw new Error('Empty page');
+                    if (!iframe.contentDocument || iframe.contentDocument.body.innerHTML.length < 100) {
+                         throw new Error('Empty or failed page load');
                     }
                     iframe.style.display = 'block';
                     errorDiv.style.display = 'none';
                 } catch (e) {
+                    console.error("Помилка завантаження iframe:", e);
                     iframe.style.display = 'none';
                     errorDiv.style.display = 'block';
                 }
