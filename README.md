@@ -57,11 +57,43 @@ The modern approach complements it with the model [RASCLS](https://www.cia.gov/r
 -----------
 
 ## Theft (Article 185 of the Criminal Code of Ukraine)
+- Part 1 of Article 185 defines theft as the secret theft of another's property. The objective side of theft is expressed in the action - the secret, illegal, gratuitous, and against the will of the owner's property.
 
-### Factors (mechanisms) influencing the commission of treason
+### Factors (mechanisms) influencing the commission of Theft
+
+#### **Gary Becker’s Economic Theory of Crime (1968)**
+[Article](https://www.amherst.edu/system/files/media/0973/BeckerCrimeand%2520P.PDF)
+
+Explains crime as a rational decision based on weighing the expected benefits against the expected costs (probability of punishment × severity of punishment):
+
+* motivation: material gain;
+* factors: unemployment, income loss, financial pressure;
+* mechanism: lower “opportunity cost” of legal work → higher attractiveness of illegal income.
+
+#### **Empirical economic model of theft (Dündar)**
+[Article](https://dergipark.org.tr/en/pub/intraders/article/1142732)
+
+Finds strong statistical relationships between theft rates and:
+
+* unemployment levels;
+* inflation and price growth;
+* income inequality;
+* declining real wages;
+* overall macroeconomic instability.
+
 
 ### Hypotheses (factor → mechanism → example)
------------
+#### 1. Unemployment → lower opportunity cost of legal alternatives → increased theft
+
+**Hypothesis:** Unemployment reduce the relative value of legal work, increasing the likelihood of using theft as an alternative way to obtain resources.
+
+#### **2. Inflation / rising prices → perception of scarcity → increase in petty theft**
+
+**Hypothesis:** Rising food and essential goods prices create a sense of shortage, contributing to shoplifting and small-value thefts.
+
+#### **3. Income inequality → perceived injustice / compensatory behaviour → higher theft rate**
+
+**Hypothesis:** Income inequality increases subjective justification for theft as a way to “restore fairness” or compensate for disparities in access to goods.
 
 ## Brigandage (Article 187 of the Criminal Code of Ukraine)
 
@@ -84,3 +116,6 @@ This project aims to analyze and identify the key factors and mechanisms contrib
 The project further explores theories related to political loyalty, financial incentives, and coercion as underlying factors leading to these activities. Through this analysis, we are able to build comprehensive graphs and visualizations that represent trends over time, illustrating the relationship between different influencing factors and crimes.
 
 This project has laid the groundwork for ongoing data-driven analysis on how external and internal pressures interact with personal motivations, providing insights into potential interventions and preventive measures.
+
+
+
