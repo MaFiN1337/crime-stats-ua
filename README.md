@@ -103,11 +103,25 @@ Finds strong statistical relationships between theft rates and:
 ----------
 
 ## Froad (Article 190 of the Criminal Code of Ukraine)
+According to Article 190 of the Criminal Code of Ukraine, fraud is the taking of another's property or the acquisition of the right to property by deception or breach of trust. This crime is characterized by the intentional misleading of a victim so that they voluntarily transfer their property, the right to it, or provide financial funds.
 
-### Factors (mechanisms) influencing the commission of treason
-
+### Factors (mechanisms) influencing the commission of Froad
+ - development of digital financial technologies and growth of cashless payments [Article](https://share.google/WpUI7MT31oer6ORKl)
+ - digitalization of society and low cyber literacy [Article](https://bastion.tv/diya-yak-zagroza-bezpeci-yak-derzhavna-cifrovizaciya-dopomagaye-shahrayam_n75196)
+ - digitalization of government services [Article](https://elar.navs.edu.ua/items/7500134e-a424-4c2e-af2e-0d0c4bfa85ec)
 ### Hypotheses (factor → mechanism → example)
-----------
+#### **1. Development of fintech technologies → creation of new remote deception tools → increase in phishing and fake online stores**
+
+**Hypothesis:** The growing popularity of online shopping and cashless transfers increases the "attack surface" for fraudsters, who create phishing sites (copies of banks, postal services) to steal payment data.
+
+#### **2. Digitalization + Low cyber literacy → high effectiveness of social engineering → increase in vishing (phone-based fraud)**
+
+**Hypothesis:** Low public awareness allows fraudsters, posing by phone as "bank security" or "police," to persuade victims to voluntarily disclose confidential data (PIN, CVV, passwords) under the guise of "protecting" their funds.
+
+#### **3. Digitalization of government services ("Diia") → exploitation of identification vulnerabilities → fraudulent microloan applications**
+
+**Hypothesis:** Vulnerabilities in access recovery procedures allow fraudsters (by gaining control of a victim's phone number) to seize their BankID, access digital documents in "Diia," and use this data to apply for online loans in the victim's name.
+
 
 # Conclusion
 
