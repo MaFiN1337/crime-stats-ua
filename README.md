@@ -51,6 +51,8 @@ The modern approach complements it with the model [RASCLS](https://www.cia.gov/r
 
 ## Intentional grievous bodily harm (Article 121 of the Criminal Code of Ukraine). 
 
+- Intentional grievous bodily harm, that is, intentional bodily harm that is dangerous to life at the moment of infliction, or such that caused the loss of any organ or its functions, mutilation of the sexual organs, a mental illness or another health disorder resulting in a permanent loss of working capacity of at least one-third, or the termination of pregnancy, or irreversible disfigurement of the face.
+
 ### Factors (mechanisms) influencing the commission of treason
 
 ### Hypotheses (factor → mechanism → example)
