@@ -59,23 +59,40 @@ The modern approach complements it with the model [RASCLS](https://www.cia.gov/r
 Large-scale protest events (Euromaidan) and the full-scale invasion significantly increased the number of severe injuries in society.  
 Forensic studies of the Maidan period report a high concentration of life-threatening wounds (gunshot injuries, blast trauma, combined craniocerebral injuries), which correspond to the grievous harm classification.
 
+**Key sources:**  
+- Mishalov V. D. *Forensic assessment of injuries among Maidan protesters* — BSMU (304 victims, severe trauma patterns).  
+  http://forensic.bsmu.edu.ua/article/view/243991  
+- UzhNU Legal Bulletin: analysis of violent injuries during civil unrest (Maidan).  
+  https://visnyk-juris-uzhnu.com/wp-content/uploads/2022/03/NVUzhNU_69.pdf#page=356  
+- Updated forensic and criminological analysis of conflict-related injuries (2025).  
+  https://visnyk-juris-uzhnu.com/wp-content/uploads/2025/07/46-3.pdf
+
 **Mechanism:** escalation of violence → greater use of life-threatening force → increased severity of injuries.
 
 #### **2. Population displacement and territorial fragmentation (IDPs and occupied regions)**  
 Mass internal displacement changes reporting patterns.  
 Areas affected by combat have reduced access to law enforcement; some regions appear “safer” statistically because the population moved away or police cannot register cases.
 
+**Key sources:**  
+- UNHCR / IOM Ukraine displacement impact reports (IDP vulnerability, reporting decline).  
+  https://displacement.iom.int/ukraine  
+- OHCHR monitoring reports on conflict-affected regions and justice accessibility.  
+  https://www.ohchr.org/en/countries/ukraine
+
 **Mechanism:** displacement → reduced reporting capacity → statistical underestimation of violent crimes, including Article 121.
 
-#### **3. Circulation of weapons and explosive devices**  
-Post-conflict environments see an increase in the illegal circulation of small arms, ammunition, and explosive remnants of war.  
-This increases the lethality of interpersonal conflicts.
-
-**Mechanism:** easier access to weapons → higher severity of conflicts → more injuries meet the threshold of grievous bodily harm.
-
-#### **4. Domestic violence and psychosocial stress**  
+#### **3. Domestic violence and psychosocial stress**  
 Wartime stressors (PTSD, unemployment, economic pressure, substance abuse) increase the likelihood of severe domestic violence outcomes.  
 A share of domestic incidents results in long-term disability or life-threatening injuries.
+
+**Key sources:**  
+- UN Women: *Increase in domestic and gender-based violence in Ukraine during conflict*.  
+  https://eca.unwomen.org  
+- OHCHR: *Conflict-related civilian harm and domestic violence trends*.  
+  https://www.ohchr.org  
+- Botchkovar E., *War and intimate partner violence in Ukraine* — European Journal of Criminology (2025).  
+- National Police of Ukraine — domestic violence statistics (2022–2024).  
+  https://www.npu.gov.ua
 
 **Mechanism:** stress and instability → escalation of household conflicts → severe bodily injuries qualifying under Article 121.
 
@@ -83,16 +100,16 @@ A share of domestic incidents results in long-term disability or life-threatenin
 
 #### **1. Military-political shocks → escalation of violence → rise in grievous bodily harm (actual numbers)**  
 **Hypothesis:** During periods of crisis (Maidan, invasion), the prevalence of life-threatening injuries increases due to firearms, explosives, and chaotic confrontations.  
-*Example:* forensic medical reports from 2013–2014 documenting hundreds of life-threatening injuries consistent with Article 121 criteria.
+*Example:* forensic medical reports from 2013–2014 documenting hundreds of life-threatening injuries consistent with Article 121 criteria.  
+(See: http://forensic.bsmu.edu.ua/article/view/243991)
 
 #### **2. Population displacement → reduced reporting → artificial decline in recorded Article 121 crimes**  
-**Hypothesis:** Mass relocation and territorial inaccessibility lead to lower official registration of crimes, producing a misleading impression of decreased grievous bodily harm.
+**Hypothesis:** Mass relocation and territorial inaccessibility lead to lower official registration of crimes, producing a misleading impression of decreased grievous bodily harm.  
+(UNHCR displacement datasets: https://displacement.iom.int/ukraine)
 
-#### **3. Increased circulation of weapons → higher lethality → more injuries qualify as grievous harm**  
-**Hypothesis:** The spread of firearms and explosive devices increases the severity of interpersonal conflicts, even when they originate from minor disputes.
-
-#### **4. Domestic violence escalation → severe outcomes → increased proportion of Article 121 cases**  
-**Hypothesis:** Wartime psychosocial stress increases the severity of domestic violence incidents, raising the proportion of cases resulting in long-term disability or life-threatening injuries.
+#### **3. Domestic violence escalation → severe outcomes → increased proportion of Article 121 cases**  
+**Hypothesis:** Wartime psychosocial stress increases the severity of domestic violence incidents, raising the proportion of cases resulting in long-term disability or life-threatening injuries.  
+(UN Women, OHCHR reports on DV trends)
 
 ## Theft (Article 185 of the Criminal Code of Ukraine)
 - Part 1 of Article 185 defines theft as the secret theft of another's property. The objective side of theft is expressed in the action - the secret, illegal, gratuitous, and against the will of the owner's property.
