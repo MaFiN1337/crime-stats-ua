@@ -53,10 +53,46 @@ The modern approach complements it with the model [RASCLS](https://www.cia.gov/r
 
 - Intentional grievous bodily harm, that is, intentional bodily harm that is dangerous to life at the moment of infliction, or such that caused the loss of any organ or its functions, mutilation of the sexual organs, a mental illness or another health disorder resulting in a permanent loss of working capacity of at least one-third, or the termination of pregnancy, or irreversible disfigurement of the face.
 
-### Factors (mechanisms) influencing the commission of treason
+### Factors (mechanisms) influencing the commission and recorded levels of grievous bodily harm
+
+#### **1. Military and political shocks (2013–2014, 2022–2024)**  
+Large-scale protest events (Euromaidan) and the full-scale invasion significantly increased the number of severe injuries in society.  
+Forensic studies of the Maidan period report a high concentration of life-threatening wounds (gunshot injuries, blast trauma, combined craniocerebral injuries), which correspond to the grievous harm classification.
+
+**Mechanism:** escalation of violence → greater use of life-threatening force → increased severity of injuries.
+
+#### **2. Population displacement and territorial fragmentation (IDPs and occupied regions)**  
+Mass internal displacement changes reporting patterns.  
+Areas affected by combat have reduced access to law enforcement; some regions appear “safer” statistically because the population moved away or police cannot register cases.
+
+**Mechanism:** displacement → reduced reporting capacity → statistical underestimation of violent crimes, including Article 121.
+
+#### **3. Circulation of weapons and explosive devices**  
+Post-conflict environments see an increase in the illegal circulation of small arms, ammunition, and explosive remnants of war.  
+This increases the lethality of interpersonal conflicts.
+
+**Mechanism:** easier access to weapons → higher severity of conflicts → more injuries meet the threshold of grievous bodily harm.
+
+#### **4. Domestic violence and psychosocial stress**  
+Wartime stressors (PTSD, unemployment, economic pressure, substance abuse) increase the likelihood of severe domestic violence outcomes.  
+A share of domestic incidents results in long-term disability or life-threatening injuries.
+
+**Mechanism:** stress and instability → escalation of household conflicts → severe bodily injuries qualifying under Article 121.
 
 ### Hypotheses (factor → mechanism → example)
------------
+
+#### **1. Military-political shocks → escalation of violence → rise in grievous bodily harm (actual numbers)**  
+**Hypothesis:** During periods of crisis (Maidan, invasion), the prevalence of life-threatening injuries increases due to firearms, explosives, and chaotic confrontations.  
+*Example:* forensic medical reports from 2013–2014 documenting hundreds of life-threatening injuries consistent with Article 121 criteria.
+
+#### **2. Population displacement → reduced reporting → artificial decline in recorded Article 121 crimes**  
+**Hypothesis:** Mass relocation and territorial inaccessibility lead to lower official registration of crimes, producing a misleading impression of decreased grievous bodily harm.
+
+#### **3. Increased circulation of weapons → higher lethality → more injuries qualify as grievous harm**  
+**Hypothesis:** The spread of firearms and explosive devices increases the severity of interpersonal conflicts, even when they originate from minor disputes.
+
+#### **4. Domestic violence escalation → severe outcomes → increased proportion of Article 121 cases**  
+**Hypothesis:** Wartime psychosocial stress increases the severity of domestic violence incidents, raising the proportion of cases resulting in long-term disability or life-threatening injuries.
 
 ## Theft (Article 185 of the Criminal Code of Ukraine)
 - Part 1 of Article 185 defines theft as the secret theft of another's property. The objective side of theft is expressed in the action - the secret, illegal, gratuitous, and against the will of the owner's property.
