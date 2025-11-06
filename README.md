@@ -94,12 +94,30 @@ Finds strong statistical relationships between theft rates and:
 #### **3. Income inequality → perceived injustice / compensatory behaviour → higher theft rate**
 
 **Hypothesis:** Income inequality increases subjective justification for theft as a way to “restore fairness” or compensate for disparities in access to goods.
+----------
 
 ## Brigandage (Article 187 of the Criminal Code of Ukraine)
+Under Article 187 of the Criminal Code of Ukraine, brigandage is defined as an attack with the aim of seizing someone else’s property combined with violence dangerous to life or health of the victim, or with the threat of such violence.
 
 ### Factors (mechanisms) influencing the commission of treason
 
+* economic instability and unemployment [article](http://www.irbis-nbuv.gov.ua/cgi-bin/irbis_nbuv/cgiirbis_64.exe?I21DBN=LINK&P21DBN=UJRN&Z21ID=&S21REF=10&S21CNR=20&S21STN=1&S21FMT=ASP_meta&C21COM=S&2_S21P03=FILA=&2_S21STR=Unzap_2020_1_18)
+* environmental and situational conditions [article](https://share.google/JqHxZKbeqkhSyA5KX)
+* weak law enforcement presence and low deterrence[article](https://prikhodko.com.ua/my-i-zmi/my-i-zmi/stattya/rozbij-stattya-187-kk-ukrayiny-kvalifikacziya-rozboyu-sklad-i-oznaky-zlochynu/)
+
 ### Hypotheses (factor → mechanism → example)
+
+Economic instability and unemployment → weakened legal alternatives → growth of violent property crimes
+
+Periods of economic recession, unemployment, and rising inflation lower the “opportunity cost” of legal work and create social tension. Individuals under financial stress may perceive violent theft as a faster or even necessary way to obtain resources.
+
+Environmental and situational conditions → increased opportunity → concentration of robberies in vulnerable zones
+
+Poor lighting, lack of video surveillance, unguarded streets, or isolated dwellings reduce the perceived risk of being caught. These “opportunity structures” make robbery more feasible.
+
+Weak law enforcement presence and low deterrence → reduced risk perception → cyclical growth of robbery rates
+
+When the perceived risk of arrest or conviction is low, potential offenders believe that violent property crimes are “worth the risk.”
 ----------
 
 ## Froad (Article 190 of the Criminal Code of Ukraine)
