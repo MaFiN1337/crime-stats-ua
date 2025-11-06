@@ -109,16 +109,16 @@ Under Article 187 of the Criminal Code of Ukraine, brigandage is defined as an a
 
 Economic instability and unemployment → weakened legal alternatives → growth of violent property crimes
 
-Periods of economic recession, unemployment, and rising inflation lower the “opportunity cost” of legal work and create social tension. Individuals under financial stress may perceive violent theft as a faster or even necessary way to obtain resources.
+  Periods of economic recession, unemployment, and rising inflation lower the “opportunity cost” of legal work and create social tension. Individuals under financial stress may perceive violent theft as a faster or even necessary way to obtain resources.
 
 Environmental and situational conditions → increased opportunity → concentration of robberies in vulnerable zones
 
-Poor lighting, lack of video surveillance, unguarded streets, or isolated dwellings reduce the perceived risk of being caught. These “opportunity structures” make robbery more feasible.
+  Poor lighting, lack of video surveillance, unguarded streets, or isolated dwellings reduce the perceived risk of being caught. These “opportunity structures” make robbery more feasible.
 
 Weak law enforcement presence and low deterrence → reduced risk perception → cyclical growth of robbery rates
 
-When the perceived risk of arrest or conviction is low, potential offenders believe that violent property crimes are “worth the risk.”
-----------
+  When the perceived risk of arrest or conviction is low, potential offenders believe that violent property crimes are “worth the risk.”
+
 
 ## Froad (Article 190 of the Criminal Code of Ukraine)
 According to Article 190 of the Criminal Code of Ukraine, fraud is the taking of another's property or the acquisition of the right to property by deception or breach of trust. This crime is characterized by the intentional misleading of a victim so that they voluntarily transfer their property, the right to it, or provide financial funds.
