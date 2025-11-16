@@ -146,9 +146,7 @@ Finds strong statistical relationships between theft rates and:
 
 **Hypothesis:** Rising food and essential goods prices create a sense of shortage, contributing to shoplifting and small-value thefts.
 
-#### **3. Income inequality → perceived injustice / compensatory behaviour → higher theft rate**
 
-**Hypothesis:** Income inequality increases subjective justification for theft as a way to “restore fairness” or compensate for disparities in access to goods.
 ----------
 
 ## Brigandage (Article 187 of the Criminal Code of Ukraine)
