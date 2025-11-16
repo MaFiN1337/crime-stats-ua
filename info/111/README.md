@@ -170,7 +170,7 @@ The file `treason_mice_rascls_analysis.py` creates a small DataFrame with a sing
 case    = "Oleksandr Dubinsky"
 type    = "Member of Parliament / media figure"
 article = "111"   (suspicion of high treason)
-
+```
 
 **Module docs & code**
 
