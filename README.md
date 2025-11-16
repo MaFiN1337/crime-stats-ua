@@ -4,6 +4,7 @@ The objective of this project is to gather, analyze, and visualize data related 
 
 The analysis is based on various articles and case studies, which will be examined in detail throughout the project. These articles explore the legal framework, contributing factors, and real-life examples.
 
+[Link to our presentation](https://www.canva.com/design/DAG4w8gh-9M/8CsYhCEDYLhx5xjqOECFdw/view?utm_content=DAG4w8gh-9M&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbe8dfb9658)
 
 ## High treason (Article 111 of the Criminal Code of Ukraine) and joint activities
 
