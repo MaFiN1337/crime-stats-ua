@@ -1,1 +1,1 @@
-<img width="3043" height="1638" alt="Oblikovano_all_years_coef" src="https://github.com/user-attachments/assets/ee2ccacc-1410-4423-b160-7d4468e6d51f" />
+<img width="3043" height="1638" alt="Oblikovano_yearly_coef" src="https://github.com/user-attachments/assets/e52c13fc-c84c-418d-867f-0ac2fb69ea88" />
